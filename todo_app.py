@@ -40,6 +40,7 @@ def view_tasks(tasks):
         print(f"{index}. [{status}] {task['description']}")
     print("----------------------")
 
+# Feature: Mark tasks as completed with error handling
 
 def mark_complete(tasks):
     """Mark a specific task as completed."""
