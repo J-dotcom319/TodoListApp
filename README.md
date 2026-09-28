@@ -1,7 +1,7 @@
 # To-Do List Manager
 
-**Video Demo:** [https://youtu.be/qYB0GbrEvO4]
-
+**Video Demo:** [https://youtu.be/qYB0GbrEvo4]
+**Slide Deck:** [View Presentation Slides](./TodoList_Slides.pdf)
 ## Project Description
 A command-line to-do list application built with Python demonstrating variables, collections, control flow, iteration, and user interaction.
 
