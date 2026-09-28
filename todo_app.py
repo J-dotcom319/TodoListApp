@@ -1,7 +1,7 @@
 """
 To-Do List Application
-Author: [Your Name]
-Date: [Today's Date]
+Author: Jeffrey Antwi
+Date: 24th September 2026
 Purpose: A simple command-line to-do list manager demonstrating Python fundamentals
 """
 
