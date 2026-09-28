@@ -59,6 +59,7 @@ def mark_complete(tasks):
     except ValueError:
         print("Please enter a valid number.")
 
+# Feature: Remove tasks from list with confirmation
 
 def delete_task(tasks):
     """Remove a task from the list."""
