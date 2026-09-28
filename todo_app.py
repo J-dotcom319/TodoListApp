@@ -26,6 +26,7 @@ def add_task(tasks):
     else:
         print("Task cannot be empty.")
 
+# Feature: Display all tasks with completion status indicators
 
 def view_tasks(tasks):
     """Display all tasks with their status."""
