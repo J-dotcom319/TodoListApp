@@ -16,6 +16,7 @@ def display_menu():
     print("===========================")
 
 
+# Feature: Allow users to create new tasks with input validation
 def add_task(tasks):
     """Add a new task to the list."""
     task = input("Enter task description: ").strip()
